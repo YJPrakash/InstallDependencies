@@ -1,5 +1,5 @@
 {
-  "name": "@js/install-dep",
+  "name": "install-dep",
   "version": "1.0.0",
   "bin": {
     "idep": "./index.js"
