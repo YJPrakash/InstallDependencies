@@ -1,0 +1,14 @@
+{
+  "name": "@js/install-dep",
+  "version": "1.0.0",
+  "bin": {
+    "idep": "./index.js"
+  },
+  "description": "step:1 Change directory cd <ProjectDirectory>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YJPrakash",
+  "license": "ISC"
+}
