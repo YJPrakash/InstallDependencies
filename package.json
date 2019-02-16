@@ -10,5 +10,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "YJPrakash",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YJPrakash/InstallDependencies.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YJPrakash/InstallDependencies/issues"
+  },
+  "homepage": "https://github.com/YJPrakash/InstallDependencies#readme"
 }
