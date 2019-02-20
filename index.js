@@ -33,7 +33,8 @@
                 }
                 for (let [k, v] of Object.entries(packages)) {
                     if (v[0] === "^") v = v.slice(1, v.length);
-                    await installPackage(`${k}@${v}`)
+                    await installPackage(`${k}@latest`)
+                    // await installPackage(`${k}@${v}`)
                 }
             }).catch((e) => {
                 console.log("error");
